@@ -1,4 +1,13 @@
-#!/bin/bash
-echo "Best school"
-echo "This school is so cool!"
+#!/bin/bash                                                                  
+
+echo"Best School"
+echo "The school is open!"                                                                                                                                          
+
+                                                                                                                                                
+echo "The school is open!"           
+
+
+                                                                                                                                              
+echo "The school is open"
+
 
